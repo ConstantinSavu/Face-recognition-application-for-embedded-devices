@@ -1,4 +1,4 @@
-# Face Recognition Application Project Report
+# Face Recognition Application Project
 
 ## Overview
 This project report details the design and implementation of a face recognition application. The application uses a compact Convolutional Neural Network (CNN) architecture, MobileNet V3 Small, which is optimized for functionality on an embedded device.
